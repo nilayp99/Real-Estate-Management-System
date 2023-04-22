@@ -1,0 +1,8 @@
+1,Shree,Flat,9000,2,422009,Nasik,Maharashtra,Sale,New,3200000
+2,Treeland,Flat,2000,3,422009,Nasik,Maharashtra,Sale,New,4000000
+3,Alvira,Bunglow,3000,5,422008,Mumbai,Maharashtra,sale,new,1000000
+4,Antilia,Bunglow,20000,9,400022,Mumbai,Maharashtra,Sale,Resale,2000000
+5,Mannat,Bunglow,10000,7,400077,Mumbai,Maharashtra,Rent,New,900000
+6,Shivshakti,Bunglow,7000,5,400077,Mumbai,Maharashtra,Rent,New,1000000
+7,shlok,Flat,2000,3,400022,mumbai,maharashtra,Sale,New,4000000
+8,House,Bunglow,5000,5,400077,Pune,Maharashtra,Sale,Resale,2000000

@@ -1,0 +1,12 @@
+Nilay,password,9860050975,n@gmail.com
+Aman,pass789,8830761821,w@gmail.com
+Sravya,pass321,8830745642,s@gmail.com
+Vaishnavi,pass123,7875102038,d@gmail.com
+Pradnya,p7198,8899118899,q@gmail.com
+Chetali,ee8987,9988119988,p@gmail.com
+Jay,pass1234,9345666666,jay@gmail.com
+piyush,piyush,9650533994,piyush.varshney@capgemini.com
+Neel,Neel123,9860050985,neel@gmail.com
+Hello,pass,34322321,hello.g@gmail.com
+Rahul,pass,33321111,rahul@gmail.com
+Nilay101,Nila456,9860050978,nilay@gm.com

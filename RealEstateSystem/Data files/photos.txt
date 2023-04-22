@@ -1,0 +1,12 @@
+1,F:/Project-2/RealEstateSystem/Photos/9678.jpg
+1,F:/Project-2/RealEstateSystem/Photos/1841.jpg
+2,F:/Project-2/RealEstateSystem/Photos/1890.jpg
+2,F:/Project-2/RealEstateSystem/Photos/9163.jpg
+4,F:/Project-2/RealEstateSystem/Photos/3914.jpg
+4,F:/Project-2/RealEstateSystem/Photos/3969.jpg
+4,F:/Project-2/RealEstateSystem/Photos/4008.jpg
+4,F:/Project-2/RealEstateSystem/Photos/4335.jpg
+5,F:/Project-2/RealEstateSystem/Photos/5070.jpg
+5,F:/Project-2/RealEstateSystem/Photos/5129.jpg
+2,F:/Project-2/RealEstateSystem/Photos/10841.jpg
+8,F:/Project-2/RealEstateSystem/Photos/1047.jpg
